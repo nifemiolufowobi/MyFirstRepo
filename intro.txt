@@ -3,3 +3,4 @@ Major: Interior Design
 Sport: Track and Field
 Show: Swat
 Hobby: Sleeping
+Nickname: Nifemi
